@@ -1,4 +1,4 @@
 function(){
 	console.log("1234");
-	console.log("second time");
+	console.log("railsbug00-first-push");
 }
